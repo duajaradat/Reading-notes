@@ -17,8 +17,9 @@
 ### *This [link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) leads you to the main article. 
 
 ### * These are some tIPS I do to keep myself in a Growth Mindset:
-**1-Stop seeking approval from others** I always remind myself that "You are the only person who will always be there for you in your life so you are the only one you need to impress."
-**2-"NOT YET" is OK** If you stick with somethig, time and practice will lead to improvement.
-**3-Speed is not important**.
-**4-Be realistic** It takes time, sometimes lots of time.
-**5-Redefine “genius** 
+
+##### 1- Stop seeking approval from others I always remind myself that "You are the only person who will always be there for you in your life so you are the only one you need to impress."
+##### 2- "NOT YET" is OK If you stick with somethig, time and practice will lead to improvement.
+##### 3- Speed is not important.
+##### 4- Be realistic It takes time, sometimes lots of time.
+##### 5- Redefine "genius". 
