@@ -1,3 +1,4 @@
+
 **Hi,**
 
 **This Is Du'a Nassrat Jaradat, I'm 27 years old.
@@ -15,6 +16,8 @@ also it invest me in the future so I could be effective in society.**
 | .replit  |  [replit](https://replit.com/@duajaradat/Reading-notes#.replit)  |
 | mindsets.jpg|[mindsets](https://replit.com/@duajaradat/Reading-notes#mindsets.jpg) |
 | Read02   |  [Read02](https://replit.com/@duajaradat/Reading-notes#Read02)  |
+
+
 
 # _GROWTH MINDSET_
 ####  Growth Mindset is based on the belief that your basic qualities and talents are things that you can improve through practicing  and efforts.On the other hand, Fixed mindset is based on the belief that your abilities , intelligence and etc are static and unchangeable (You’re born with what you’re born with—and that’s it).
