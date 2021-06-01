@@ -16,6 +16,7 @@ also it invest me in the future so I could be effective in society.**
 | .replit  |  [replit](https://replit.com/@duajaradat/Reading-notes#.replit)  |
 | mindsets.jpg|[mindsets](https://replit.com/@duajaradat/Reading-notes#mindsets.jpg) |
 | Read02   |  [Read02](https://replit.com/@duajaradat/Reading-notes#Read02)  |
+| feedback.md   |  [feedback](https://replit.com/@duajaradat/Reading-notes#feedback.md)  |
 
 
 
