@@ -11,7 +11,7 @@ also it invest me in the future so I could be effective in society.**
 | ---------| -----------|
 | Read01   | [Read01](https://replit.com/@duajaradat/Reading-notes#Read01.md) |
 | list.png | [list](https://replit.com/@duajaradat/Reading-notes#list.png)    |
-| Lab02    | [Lab02](https://replit.com/@duajaradat/Reading-notes#Lab02 )    |
+| Lab01    | [Lab01](https://replit.com/@duajaradat/Reading-notes#Lab01.md)    |
 | _config.yml|[_config](https://replit.com/@duajaradat/Reading-notes#_config.yml) |
 | .replit  |  [replit](https://replit.com/@duajaradat/Reading-notes#.replit)  |
 | mindsets.jpg|[mindsets](https://replit.com/@duajaradat/Reading-notes#mindsets.jpg) |
