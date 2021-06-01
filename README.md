@@ -1,4 +1,9 @@
+**Hi**
 
+**This Is Du'a Nassrat Jaradat, I'm 27 years old.
+I'm Jordanian from Irbid. I have a bachelor's degree in civil engineering from Jordan University of Science and Technology.
+I have worked in Structural field for two years and half.
+I'm interested in becoming a full-stack web developer because I like programming and this scholarship will give me the experience I need to achieve my goals . also it invest me in the future so I could be effective in society.**
 # _GROWTH MINDSET_
 ####  Growth Mindset is based on the belief that your basic qualities and talents are things that you can improve through practicing  and efforts.On the other hand, Fixed mindset is based on the belief that your abilities , intelligence and etc are static and unchangeable (You’re born with what you’re born with—and that’s it).
 
