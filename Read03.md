@@ -1,4 +1,4 @@
-## Wireframe and Design
+## *Wireframe and Design*
 **Wireframe** is a schematic useful to help you and your programmers and designers think and communicate about the structure of the software or website you're building.
 
 1- know where all the information is going to go in plain black and white diagrams before building anything with code.
@@ -42,5 +42,14 @@ You can draw by hand, while others like to use apps or tools found online.The de
 6. Start turning your wireframes into prototypes.
 
 
-## HTML basics
+## *HTML basics*
+**HTML (Hypertext Markup Language)** is the code that is used to structure a web page and its content.**HTML** consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way.
+
+#### Anatomy of an HTML element
+![img](elementHTML.png)
+Elements can also have attributes
+![img](attributes.png)
+
+
+
 
