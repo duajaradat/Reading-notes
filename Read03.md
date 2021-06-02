@@ -57,31 +57,31 @@ Elements can also have attributes
 **Semantic elements**
 These are some of the roughly  semantic elements available:
 
-1- <article>
+1- article
 
-2- <aside>
+2- asid
 
-3- <details>
+3- details
 
-4- <figcaption>
+4- figcaption
 
-5- <figure>
+5- figure
 
-6- <footer>
+6- footer
 
-7- <header>
+7- header
 
-8- <main>
+8- main
 
-9- <mark>
+9- mark
 
-10- <nav>
+10- nav
 
-11- <section>
+11- section
 
-12-<summary>
+12-summary
 
-13-<time>
+13-time
 
 
 
