@@ -50,6 +50,39 @@ You can draw by hand, while others like to use apps or tools found online.The de
 Elements can also have attributes
 ![img](attributes.png)
 
+## Semantics
+
+ Semantics refers to the meaning of a piece of code — for example "what effect does runaning that line of JavaScript have?", or "what purpose or role does that HTML element have"rather than "what does it look like?".
+
+**Semantic elements**
+These are some of the roughly  semantic elements available:
+
+1- <article>
+
+2- <aside>
+
+3- <details>
+
+4- <figcaption>
+
+5- <figure>
+
+6- <footer>
+
+7- <header>
+
+8- <main>
+
+9- <mark>
+
+10- <nav>
+
+11- <section>
+
+12-<summary>
+
+13-<time>
+
 
 
 
