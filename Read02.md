@@ -1,6 +1,5 @@
 #  Git 
 
-
 Fisrt of all, You need to understand what do (Version Control) mean. 
 **Version Control** is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 VCS has three types:
