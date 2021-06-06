@@ -15,6 +15,7 @@ also it invest me in the future so I could be effective in society.**
 | Read03   |  [Read03](https://replit.com/@duajaradat/Reading-notes#Read03.md)   |
 | Read04   |  [Read04](https://replit.com/@duajaradat/Reading-notes#Read04.md)   |
 | Read06   |  [Read06](https://replit.com/@duajaradat/Reading-notes#Read06.md)   |
+| Read07   |  [Read07](https://replit.com/@duajaradat/Reading-notes#Read07.md)   |
 | feedback  |  [feedback](https://replit.com/@duajaradat/Reading-notes#feedback.md)|
 | Lab01    | [Lab01](https://replit.com/@duajaradat/Reading-notes#Lab01.md)    |
 
