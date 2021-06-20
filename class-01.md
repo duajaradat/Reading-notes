@@ -1,4 +1,4 @@
-# *Introduction*
+## *Introduction*
 
 It's not that hard to learn how
 to write web pages and read
@@ -55,7 +55,7 @@ and clarify some terminology:
 4- Devices
 
 
-# *CH01 : STRUCTURE*
+## *CH01: STRUCTURE*
 
 To describe the structure of a web page, we add code to the words we want
 to appear on the page.You can see the **HTML** code for this page below.Note that the HTML code is in blue, and the text you see on screen
@@ -89,4 +89,119 @@ made up of two parts: a name and a value,
 separated by an equals sign.
 
 ![Attributes](Attributes.png)
+
+## *CH08: EXTRA MARKUP*
+
+`<!DOCTYPE html>`
+
+Because there have been
+several versions of **HTML**, each
+web page should begin with a
+DOCTYPE declaration to tell a
+browser which version of HTML
+the page is using (although
+browsers usually display the
+page even if it is not included).
+
+Because **XHTML** was written
+in XML, you will sometimes
+see pages that use the XHTML
+strict DOCTYPE start with
+the optional XML declaration.
+Where this is used, it should be
+the first thing in a document.
+There must be nothing before it,
+not even a space.
+`<?xml version="1.0" ?>`
+
+`<!-- -->`
+
+If you want to add a comment
+to your code that will not be
+visible in the user's browser, you
+can add the text between these
+characters:
+`<!-- comment goes here -->`
+
+**ID Attribute**
+
+Every HTML element can carry
+the id attribute. It is used to
+uniquely identify that element
+from other elements on the
+page. Its value should start with
+a letter or an underscore (not a
+number or any other character).
+It is important that no two
+elements on the same page
+have the same value for their id
+attributes (otherwise the value is
+no longer unique).
+The **ID** attribute is known as a
+global attribute because it can
+be used on any element.
+
+`<p id="pullquote">`
+
+
+**Class attribute**
+
+Every HTML element can
+also carry a class attribute.
+Sometimes, rather than uniquely
+identifying one element within
+a document, you will want a
+way to identify several elements
+as being different from the
+other elements on the page.
+For example, you might have
+some paragraphs of text that
+contain information that is more
+important than others and want
+to distinguish these elements, or
+you might want to differentiate
+between links that point to other
+pages on your own site and links
+that point to external sites.
+
+`<p class="important admittance">`
+
+**Block Elements**
+
+Some elements will always
+appear to start on a new line in
+the browser window. These are
+known as block level elements (`<h1>`, `<p>`, `<ul>`, and `<li>`).
+
+**INLINE elements**
+
+Some elements will always
+appear to continue on the
+same line as their neighbouring
+elements. These are known as
+inline elements(`<a>`, `<b>`, `<em>`, and `<img>`).
+
+**Grouping Text and Elements in a Block**
+
+`<div>`
+
+The <div> element allows you to
+group a set of elements together
+in one block-level box.
+
+**Escape Characters**
+
+There are some characters that are used in
+and reserved by HTML code. (For example, the
+left and right angled brackets.)
+![Escape](scapeCH.png)
+
+
+
+
+
+
+
+
+
 
