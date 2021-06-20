@@ -204,6 +204,66 @@ left and right angled brackets.)
 
 ## *CH18: Process & Design*
 
+Every website should be designed for the
+target audience—not just for yourself or the
+site owner. It is therefore very important to
+understand who your target audience is.
+
+Now that you know who your visitors are, you
+need to consider why they are coming. While
+some people will simply chance across your
+website, most will visit for a specific reason.
+
+You know who is coming to your site and why
+they are coming, so now you need to work out
+what information they need in order to achieve
+their goals quickly and effectively.
+
+Some sites benefit from being updated more
+frequently than others. Some information (such
+as news) may be constantly changing, while
+other content remains relatively static.
+
+Now that you know what needs to appear
+on your site, you can start to organize the
+information into sections or pages.
+
+![example-map](example-map.png)
+
+A wireframe is a simple sketch of the key
+information that needs to go on each page of a
+site. It shows the hierarchy of the information
+and how much space it might require.
+
+![wireframe](Wireframe.png)
+
+The primary aim of any kind of visual design
+is to communicate. Organizing and prioritizing
+information on a page helps users understand
+its importance and what order to read it in.
+
+The primary aim of any kind of visual design
+is to communicate. Organizing and prioritizing
+information on a page helps users understand
+its importance and what order to read it in.
+
+When making sense of a design, we tend to organize visual elements
+into groups. Grouping related pieces of information together can make a
+design easier to comprehend. Here are some ways this can be achieved.
+
+Site navigation not only helps people find where they want to go, but also
+helps them understand what your site is about and how it is organized.
+Good navigation tends to follow these principles...
+
+
+
+
+
+
+
+
+
+
 
 
 
