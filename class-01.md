@@ -196,6 +196,20 @@ and reserved by HTML code. (For example, the
 left and right angled brackets.)
 ![Escape](scapeCH.png)
 
+## *CH17: HTML5 Layout*
+
+![layout](HTML-Layout.png)
+
+![layout](new-layout.png)
+
+## *CH18: Process & Design*
+
+
+
+
+
+
+
 
 
 
