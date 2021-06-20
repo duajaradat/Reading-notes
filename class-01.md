@@ -334,6 +334,82 @@ example, it could be run when:
 
 • A web page has finished loading.
 
+## *THE ABC OF PROGRAMMING*
+
+First of all, You need to know what is a **script**?
+A **script** is a series of instructions that a
+computer can follow to achieve a goal.
+A browser may use different parts of the **script** depending on how the user interacts with the web page.**Scripts** can run different sections of the code in response  to the situation around them.
+
+To write a script, you need to first
+state your goal and then list the
+tasks that need to be completed in
+order to achieve it.Start with the big picture of what
+you want to achieve, and break
+that down into smaller steps.
+
+**1- DEFINE THE GOAL**
+First, you need to define the task you want to
+achieve. You can think of this as a puzzle for the
+computer to solve.
+
+**2- DESIGN THE SCRIPT**
+To design a script you split the goal out into a series
+of tasks that are going to be involved in solving this
+puzzle. This can be represented using a flowchart.
+You can then write down individual steps that the
+computer needs to perform in order to complete
+each individual task (and any information it needs to
+perform the task), rather like writing a recipe that it
+can follow.
+
+**3- CODE EACH STEP**
+Each of the steps needs to be written in a
+programming language that the compu ter
+understands. In our case, this is JavaScript. 
+
+![flowchart](flowchart.png)
+![flowchart2](flowchart2.png)
+
+**FROM STEPS
+TO CODE**
+
+Every step for every task shown
+in a flowchart needs to be written
+in a language the computer can
+understand and follow.
+
+***HOW A BROWSER
+SEES A WEB PAGE***
+
+1- RECEIVE A PAGE AS
+HTML CODE.
+
+2- CREATE A MODEL OF
+THE PAGE AND STORE
+IT IN MEMORY.
+
+3- USE A RENDERING
+ENGINE TO SHOW THE
+PAGE ON SCREEN.
+
+***HOW TO WRITE A SCRIPT FOR A WEB PAGES***
+
+JavaScript is written in plain text, just like HTML and CSS, so you do not
+need any new tools to write a script.
+
+When you want to use JavaScript with a web page, you use the HTML
+`<script>` element to tell the browser it is coming across a script.
+Its src attribute tells people where the JavaScript file is stored.
+
+![JavaScript](JS-book.png)
+
+
+
+
+
+
+
 
 
 
