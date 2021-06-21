@@ -207,3 +207,86 @@ This hides the element.
 *visible*
 This shows the element.
 
+
+## **The Duckett JS book**
+
+### **CH02:Basic JS Introduction**
+
+
+A **script** is a series of instructions that a computer can follow one-by-one.
+Each individual instruction or step is known as a statement.
+Statements should end with a semicolon.
+
+You should write **comments** to explain what your code does.
+They help make your code easier to read and understand.
+This can help you and others who read your code.
+
+A script will have to temporarily
+store the bits of information it
+needs to do its job. It can store this
+data in **variables.**
+
+A **variable** is a good name for this
+concept because the data stored
+in a **variable** can change (or vary)
+each time a script runs.
+
+![var](var.png)
+
+**DATA TYPES**
+
+1- NUMERIC DATA TYPE
+
+2- STRING DATA TYPE
+
+3- BOOLEAN DATA TYPE
+
+**Summary**
+1- A script is made up of a series of statements. Each
+statement is like a step in a recipe.
+
+2- Scripts contain very precise instructions. For example,
+you might specify that a value must be remembered
+before creating a calculation using that value.
+
+3- Variables are used to temporarily store pieces of
+information used in the script.
+
+4- Arrays are special types of variables that store more
+than one piece of related information.
+
+5- JavaScript distinguishes between numbers (0-9),
+strings (text), and Boolean values (true or false).
+
+6- Expressions evaluate into a single value.
+
+7- Expressions rely on operators to calculate a value.
+
+## **CH04:Decisions and Loops” from switch statements on**
+
+**Evaluating Conditions and Conditional Statement**
+
+![##](ifclause.png)
+
+**Comparison Operators**
+
+![##](Equal.png)
+
+![##](grater.png)
+
+
+**Logical Operators**
+
+![##](logical.png)
+
+
+**LOOPS**
+
+![##](for.png)
+
+
+
+
+
+
+
