@@ -42,6 +42,7 @@ title You can also use the title attribute with the `<img>` element to provide a
 
 ![](imglocation.png)
 
+
 **Cropping Images**
 
 When cropping images it is important not to lose valuable information. It is best to source images that are the correct shape if possible.
@@ -133,5 +134,30 @@ This is expressed as an angle (between 0 and 360 degrees). *saturation *This is 
 
 ### **Typeface Terminology**
 
-![text](text1.png)
+![](text1.png)
+
+![](typetest.png)
+
+**Techniques That Offer a Wider Choice of Typefaces**
+
+There are several ways to use fonts other than those listed on the previous page. However, typefaces are subject to copyright, so the techniques you can choose from are limited by their respective licenses.
+
+**Type Scales**
+
+You may have noticed that programs such as Word, Photoshop and InDesign offer the same sizes of text.
+
+**Units of Type Size**
+
+
+![](sizetext.png)
+
+
+
+
+
+
+
+
+
+
 
