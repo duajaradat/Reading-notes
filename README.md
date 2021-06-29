@@ -35,7 +35,7 @@ also it invest me in the future so I could be effective in society.**
 | class-05 | [class05](https://github.com/duajaradat/Reading-notes/blob/main/class-05.md)           |
 | class-06 | [class06](https://github.com/duajaradat/Reading-notes/blob/main/class-06.md)           |
 | class-07 | [class07](https://github.com/duajaradat/Reading-notes/blob/main/class-07.md)           |
-| class-08 | []()           |
+| class-08 | [class08](https://github.com/duajaradat/Reading-notes/blob/main/class-08.)           |
 | class-09 | []()           |
 | class-10 | []()           |
 | class-11 | []()           |
