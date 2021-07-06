@@ -37,11 +37,11 @@ also it invest me in the future so I could be effective in society.**
 | class-07 | [class07](https://github.com/duajaradat/Reading-notes/blob/main/class-07.md)           |
 | class-08 | [class08](https://github.com/duajaradat/Reading-notes/blob/main/class-08.md)           |
 | class-09 | [class09](https://github.com/duajaradat/Reading-notes/blob/main/class-09.md)           |
-| class-10 | [class10](https://github.com/duajaradat/Reading-notes/blob/main/class-10.md)            |
+| class-10 | [class10](https://github.com/duajaradat/Reading-notes/blob/main/class-10.md)           |
 | class-11 | [class11](https://github.com/duajaradat/Reading-notes/blob/main/class-11.md)           |
 | class-12 | [class12](https://github.com/duajaradat/Reading-notes/blob/main/class-12.md)           |
 | class-13 | [class13](https://github.com/duajaradat/Reading-notes/blob/main/class-13.md)           |
-| class-14 | []()           |
+| class-14 | [class14a](https://github.com/duajaradat/Reading-notes/blob/main/class-14a.md)           |
 | class-15 | []()           |
 
 ***GITHUB***
