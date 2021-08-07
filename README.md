@@ -54,7 +54,7 @@ also it invest me in the future so I could be effective in society.**
 
 | file     | Link       |
 | ---------| -----------|
-| class-1 | [class-1]()       |
+| class-1 | [class-1](https://duajaradat.github.io/Reading-notes/class-1)       |
 | class-2 | []()       |
 | class-3 | []()       |
 | class-4 | []()       |
