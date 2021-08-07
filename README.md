@@ -4,7 +4,7 @@
 **This Is Du'a Nassrat Jaradat, I'm 27 years old.
 I'm Jordanian from Irbid. I have a bachelor's degree in civil engineering from Jordan University of Science and Technology.
 I have worked in Structural field for two years and half.
-I'm interested in becoming a full-stack web developer because I like programming and this scholarship will give me the experience I need to achieve my goals .My computer operating system version is 64-bit/windows 10.
+I'm interested in becoming a full-stack web developer because I like programming and this scholarship will give me the experience I need to achieve my goals .My computer operating system version is 64-bit/windows 1.
 also it invest me in the future so I could be effective in society.**
 
 
@@ -54,15 +54,15 @@ also it invest me in the future so I could be effective in society.**
 
 | file     | Link       |
 | ---------| -----------|
-| class-01 | []()       |
-| class-02 | []()       |
-| class-03 | []()       |
-| class-04 | []()       |
-| class-05 | []()       |
-| class-06 | []()       |
-| class-07 | []()       |
-| class-08 | []()       |
-| class-09 | []()       |
+| class-1 | [class-1]()       |
+| class-2 | []()       |
+| class-3 | []()       |
+| class-4 | []()       |
+| class-5 | []()       |
+| class-6 | []()       |
+| class-7 | []()       |
+| class-8 | []()       |
+| class-9 | []()       |
 | class-10 | []()       |
 | class-11 | []()       |
 | class-12 | []()       |
