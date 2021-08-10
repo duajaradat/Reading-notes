@@ -1,61 +1,24 @@
 ## Lists and Keys
 
-**Rendering Multiple Components**
+**1-What does .map() return?**
+ map can return the element or the index or the array.
 
-You can build collections of elements and include them in JSX using curly braces {}.
+**2-If I want to loop through an array and display each value in JSX, how do I do that in React?**
+ first use `map()` method , it will return you a new array , then we use this array in `JSX`.
 
-     const numbers = [1, 2, 3, 4, 5];
-     const doubled = numbers.map((number) => number * 2);
-     console.log(doubled);
+**3-Each list item needs a unique `key`.**
 
-Below, we loop through the numbers array using the JavaScript **map()** function. We return a `<li>` element for each item. Finally we assign the resulting array of elements to listItems:
+**4-What is the purpose of a key?**
 
+to make the react know which element has changed.
 
-     const numbers = [1, 2, 3, 4, 5];
-     const listItems = numbers.map((number) =>
-     <li>{number}</li>
-     );
+## The Spread Operator
 
-     ReactDOM.render(
-     <ul>{listItems}</ul>,
-     document.getElementById('root')
-     );  
+**1- What is the spread operator?**
 
- Assign a key to our list items inside numbers.map() and fix the missing key issue. 
+spread operator is a useful and quick syntax for adding items to arrays, combining arrays or objects, and spreading an array out into a function’s arguments.
 
-        function NumberList(props) {
-        const numbers = props.numbers;
-        const listItems = numbers.map((number) =>
-            <li key={number.toString()}>
-            {number}
-            </li>
-        );
-        return (
-            <ul>{listItems}</ul>
-        );
-        }
-
- To know more about this title , [CLICK HERE.](https://www.youtube.com/watch?v=c05OL7XbwXU)       
-
-const numbers = [1, 2, 3, 4, 5];
-ReactDOM.render(
-  <NumberList numbers={numbers} />,
-  document.getElementById('root')
-);
-
-## Spread Operator (…) in JavaScript
-
-**spread operator** is a useful and quick syntax for adding items to arrays, combining arrays or objects, and spreading an array out into a function’s arguments.Use of an ellipsis of three dots` (…)` to expand an iterable object into the list of arguments.
-
-      Math.max(1,3,5) // 5
-
-     Math.max([1,3,5]) // NaN
-
-Trying to pass an array to a JavaScript function expecting separate arguments does not work. In this case it produces a NaN result. Enter …:
-
-    Math.max(...[1,3,5]) // 5
-
-**What else can … do?**
+**2-List 4 things that the spread operator can do.**
 
 1- Copying an array
 
@@ -70,16 +33,23 @@ Trying to pass an array to a JavaScript function expecting separate arguments do
 6- Adding to state in React
 
 
-![](spreadoperator.png)
-
-
 7- Combining objects
 
 8- Converting NodeList to an array
 
-**A note about copying by reference**
+**3-Give an example of using the spread operator to combine two arrays.**
 
-One of the benefits of using the spread operator is that it will create a new reference to its primitive values, copying them.
+        const objectOne = {hello: "🤪"}
+        const objectTwo = {world: "🐻"}
+        const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}
+        console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }
+        const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}
+        objectFour.laugh() // 😂😂😂😂😂
 
-![](spreadoperator1.png)
+**4-Give an example of using the spread operator to add a new item to an array.**
+
+        const fewFruit = ['🍏','🍊','🍌']
+        const fewMoreFruit = ['🍉', '🍍', ...fewFruit]
+        console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]
+
 
