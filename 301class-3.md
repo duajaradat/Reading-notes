@@ -39,6 +39,19 @@ spread operator is a useful and quick syntax for adding items to arrays, combini
 
 **3-Give an example of using the spread operator to combine two arrays.**
 
+     const myArray = [`🤪`,`🐻`,`🎌`]
+     const yourArray = [`🙂`,`🤗`,`🤩`]
+     const ourArray = [...myArray,...yourArray]
+     console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩 
+
+**4-Give an example of using the spread operator to add a new item to an array.**
+
+        const fewFruit = ['🍏','🍊','🍌']
+        const fewMoreFruit = ['🍉', '🍍', ...fewFruit]
+        console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]
+
+**5-Give an example of using the spread operator to combine two objects into one.**
+
         const objectOne = {hello: "🤪"}
         const objectTwo = {world: "🐻"}
         const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}
@@ -46,10 +59,29 @@ spread operator is a useful and quick syntax for adding items to arrays, combini
         const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}
         objectFour.laugh() // 😂😂😂😂😂
 
-**4-Give an example of using the spread operator to add a new item to an array.**
+## How to Pass Functions Between Components
 
-        const fewFruit = ['🍏','🍊','🍌']
-        const fewMoreFruit = ['🍉', '🍍', ...fewFruit]
-        console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]
+**1-In the video, what is the first step that the developer does to pass functions between components?**
+
+arrow function use map method to pass the elements of an array.
+
+**2-In your own words, what does the increment function do?**
+
+increment the counter by one , and update the button each time is clicked.
+
+**3-How can you pass a method from a parent component into a child component?**
+
+create a child component and import it then create a function in the parent and pass the child to return.
+
+**4-How does the child component invoke a method that was passed to it from a parent component?**
+
+this.props.methodName
+the state for the parent will change to a new one  when we invoke the method 
+
+***Things I want to Know more about . ***
+
+I want to know more about the passing function.
+
+
 
 
