@@ -58,7 +58,7 @@ also it invest me in the future so I could be effective in society.**
 | class-2 | [class-2](https://duajaradat.github.io/Reading-notes/301class-2)       |
 | class-3 | [class-3](https://duajaradat.github.io/Reading-notes/301class-3)       |
 | class-4 |  [class-4](https://duajaradat.github.io/Reading-notes/301class-4)      |
-| class-5 | []()       |
+| class-5 | [class-5](https://duajaradat.github.io/Reading-notes/301class-5)       |
 | class-6 | []()       |
 | class-7 | []()       |
 | class-8 | []()       |
