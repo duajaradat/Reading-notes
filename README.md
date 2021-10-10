@@ -1,16 +1,15 @@
 
-**Hi,**
-
-**This Is Du'a Nassrat Jaradat, I'm 27 years old.
-I'm Jordanian from Irbid. I have a bachelor's degree in civil engineering from Jordan University of Science and Technology.
-I have worked in Structural field for two years and half.
-I'm interested in becoming a full-stack web developer because I like programming and this scholarship will give me the experience I need to achieve my goals .My computer operating system version is 64-bit/windows 1.
-also it invest me in the future so I could be effective in society.**
-
-
-
 # **Reading Notes**
 
+A collections of my notes as I grow as a software developer.
+
+---
+
+**Hi,**
+
+**This Is Du'a Nassrat Jaradat, This site will be used to document my notes as I’m learning software development.**
+
+---
 
 ## **Code 102 - Intro to Software Development**
 
@@ -26,9 +25,11 @@ also it invest me in the future so I could be effective in society.**
 | feedback  |  [feedback](https://replit.com/@duajaradat/Reading-notes#feedback.md)|
 | Lab01    | [Lab01](https://replit.com/@duajaradat/Reading-notes#Lab01.md)    |
 
-
+---
 
 ## **Code 201 - Foundations of Software Development**
+
+---
 
 | file     | Link       |
 | ---------| -----------|
@@ -48,8 +49,12 @@ also it invest me in the future so I could be effective in society.**
 | class-14a | [class14a](https://github.com/duajaradat/Reading-notes/blob/main/class-14a.md)           |
 | class-14b | [class14b](https://github.com/duajaradat/Reading-notes/blob/main/class-14b.md)
 
+
+---
+
 ## **Code 301 - Intermediate Software Development**
 
+---
 
 
 | file     | Link       |
@@ -67,15 +72,32 @@ also it invest me in the future so I could be effective in society.**
 | class-11 | [class-11](https://duajaradat.github.io/Reading-notes/301class-11)       |
 | class-12 | [class-12](https://duajaradat.github.io/Reading-notes/301class-12)    |
 | class-13 | [class-13](https://duajaradat.github.io/Reading-notes/301class-13)     |
-| class-14 | []()       |
+| class-14 | [class-14](https://duajaradat.github.io/Reading-notes/301class-14)     |
+
+---
+
+## 401-Reading-Notes : Advanced Software Development
+
+---
+
+|**Class**    |**Link**    |
+| ----------- | ----------- |
+|  class-01   |   [class01](https://duajaradat.github.io/401-Reading-Notes/Read01)        |
+|  class-02   |                        |
+|  class-03   |                        |
+|  class-04   |                        |
+|  class-05   |                      |
+|  class-06   |                        |
+|  class-07   |                       |
+|  class-08   |                      |
+|  class-09   |                   |
+|  class-10   |                       |
+|  class-11   |                      |
+|  class-12   |                       |
 
 
+---
 
-***GITHUB***
-
-**GitHub** is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code.[**GitHub**](https://github.com/) is a graphical user interface.
-
-![github](https://cdn2.downdetector.com/static/uploads/logo/github-logo.png)
 
 
 
