@@ -85,7 +85,7 @@ A collections of my notes as I grow as a software developer.
 |  class-01   |   [class01](https://duajaradat.github.io/Reading-notes/401class01)        |
 |  class-02   |  [class02](https://duajaradat.github.io/Reading-notes/401class02)                       |
 |  class-03   |  [class03](https://duajaradat.github.io/Reading-notes/401class03)                       |
-|  class-04   |  [class04](https://duajaradat.github.io/Reading-notes/401class03)  
+|  class-04   |  [class04](https://duajaradat.github.io/Reading-notes/401class04)  
 |  class-05   |                      |
 |  class-06   |                        |
 |  class-07   |                       |
