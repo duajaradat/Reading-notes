@@ -91,7 +91,8 @@ A collections of my notes as I grow as a software developer.
 |  class-07   |  [class07](https://duajaradat.github.io/Reading-notes/401class07)  | 
 |  class-08   |  [class08](https://duajaradat.github.io/Reading-notes/401class08) |
 |  class-09   | [class09](https://duajaradat.github.io/Reading-notes/401class09)                   |
-|  class-10   |                       |
+|  class-10   | [class10](https://duajaradat.github.io/Reading-notes/401class10)                   |
+
 |  class-11   |                      |
 |  class-12   |                       |
 
