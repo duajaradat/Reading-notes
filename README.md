@@ -82,18 +82,17 @@ A collections of my notes as I grow as a software developer.
 
 |**Class**    |**Link**    |
 | ----------- | ----------- |
-|  class-01   |   [class01](https://duajaradat.github.io/Reading-notes/401class01)        |
-|  class-02   |  [class02](https://duajaradat.github.io/Reading-notes/401class02)                       |
-|  class-03   |  [class03](https://duajaradat.github.io/Reading-notes/401class03)                       |
-|  class-04   |  [class04](https://duajaradat.github.io/Reading-notes/401class04)  |
-|  class-05   |  [class05](https://duajaradat.github.io/Reading-notes/401class05)  |                    |
-|  class-06   |  [class06](https://duajaradat.github.io/Reading-notes/401class06)  | 
-|  class-07   |  [class07](https://duajaradat.github.io/Reading-notes/401class07)  | 
-|  class-08   |  [class08](https://duajaradat.github.io/Reading-notes/401class08) |
-|  class-09   | [class09](https://duajaradat.github.io/Reading-notes/401class09)                   |
-|  class-10   | [class10](https://duajaradat.github.io/Reading-notes/401class10)                   |
-
-|  class-11   |                      |
+|  class-01   |   [Python Environment](https://duajaradat.github.io/Reading-notes/401class01)        |
+|  class-02   |  [Recursion,Test Driven Development](https://duajaradat.github.io/Reading-notes/401class02)                       |
+|  class-03   |  [Read / Write files](https://duajaradat.github.io/Reading-notes/401class03)                       |
+|  class-04   |  [Thinking Recursively,Pytest fixtures and Coverage](https://duajaradat.github.io/Reading-notes/401class04)  |
+|  class-05   |  [Terminology](https://duajaradat.github.io/Reading-notes/401class05)  |                    |
+|  class-06   |  [Dependency Injection,Risk Analysis,Random Module](https://duajaradat.github.io/Reading-notes/401class06)  | 
+|  class-07   |  [Python Scope](https://duajaradat.github.io/Reading-notes/401class07)  | 
+|  class-08   |  [List Comprehensions,Decorators](https://duajaradat.github.io/Reading-notes/401class08) |
+|  class-09   | [Dunder Methods ,Statistics - Probability](https://duajaradat.github.io/Reading-notes/401class09)                   |
+|  class-10   | [Stacks & Queues](https://duajaradat.github.io/Reading-notes/401class10)                   |
+|  class-11   | [Numpy , Jupyter Lab](https://duajaradat.github.io/Reading-notes/401class11)                   |
 |  class-12   |                       |
 
 
