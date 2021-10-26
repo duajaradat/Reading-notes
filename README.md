@@ -94,8 +94,8 @@ A collections of my notes as I grow as a software developer.
 |  class-10   | [Stacks & Queues](https://duajaradat.github.io/Reading-notes/401class10)                   |
 |  class-11   | [Numpy , Jupyter Lab](https://duajaradat.github.io/Reading-notes/401class11)                   |
 |  class-12   | [Panda](https://duajaradat.github.io/Reading-notes/401class12)                      |
-|  class-13   | [Linear Regressions](https://duajaradat.github.io/Reading-notes/401class13)                      |
-|  class-14   | [Data Visualization](https://duajaradat.github.io/Reading-notes/401class14)                      |
+|  class-13   | [Linear Regressions](https://duajaradat.github.io/Reading-notes/401class-13)                      |
+|  class-14   | [Data Visualization](https://duajaradat.github.io/Reading-notes/401class-14)                      |
 ---
 
 
