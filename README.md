@@ -98,6 +98,7 @@ A collections of my notes as I grow as a software developer.
 |  class-14   | [Data Visualization](https://duajaradat.github.io/Reading-notes/401class-14)                      |
 |  class-15   | [Trees](https://duajaradat.github.io/Reading-notes/401class-15)                      |
 |  class-16   | [Machine Learning](https://duajaradat.github.io/Reading-notes/401class16)                      |
+|  class-17   | [Web Scraping](https://duajaradat.github.io/Reading-notes/401class17)                      |
 ---
 
 
