@@ -100,6 +100,7 @@ A collections of my notes as I grow as a software developer.
 |  class-16   | [Machine Learning](https://duajaradat.github.io/Reading-notes/401class16)                      |
 |  class-17   | [Web Scraping](https://duajaradat.github.io/Reading-notes/401class17)                      |
 |  class-18   | [Cryptography](https://duajaradat.github.io/Reading-notes/401class18)                      |
+|  class-19   | [Automation](https://duajaradat.github.io/Reading-notes/401class19)                      |
 ---
 
 
