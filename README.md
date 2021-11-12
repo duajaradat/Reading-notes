@@ -101,6 +101,7 @@ A collections of my notes as I grow as a software developer.
 |  class-17   | [Web Scraping](https://duajaradat.github.io/Reading-notes/401class17)                      |
 |  class-18   | [Cryptography](https://duajaradat.github.io/Reading-notes/401class18)                      |
 |  class-19   | [Automation](https://duajaradat.github.io/Reading-notes/401class19)                      |
+|  class-26   | [Intro to Django](https://duajaradat.github.io/Reading-notes/401class26)                      |
 ---
 
 
