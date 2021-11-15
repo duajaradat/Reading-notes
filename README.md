@@ -103,6 +103,7 @@ A collections of my notes as I grow as a software developer.
 |  class-19   | [Automation](https://duajaradat.github.io/Reading-notes/401class19)                      |
 |  class-26   | [Intro to Django](https://duajaradat.github.io/Reading-notes/401class26)                      |
 |  class-27   | [Django: Using Models](https://duajaradat.github.io/Reading-notes/401class27)                      |
+|  class-28   | [Django CRUD and Forms](https://duajaradat.github.io/Reading-notes/401class28)                      |
 ---
 
 
