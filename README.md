@@ -80,7 +80,7 @@ A collections of my notes as I grow as a software developer.
 
 ---
 
-|**Class**    |**Link**    |
+| **Class**    | **Link**    |
 | ----------- | ----------- |
 |  class-01   |   [Python Environment](https://duajaradat.github.io/Reading-notes/401class01)|
 |  class-02   |  [Recursion,Test Driven Development](https://duajaradat.github.io/Reading-notes401class02)  |
@@ -107,7 +107,6 @@ A collections of my notes as I grow as a software developer.
 |  class-29   | [Django Custom User](https://duajaradat.github.io/Reading-notes/401class29) |
 
 
----
 
 
 
