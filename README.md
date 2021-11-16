@@ -82,28 +82,31 @@ A collections of my notes as I grow as a software developer.
 
 |**Class**    |**Link**    |
 | ----------- | ----------- |
-|  class-01   |   [Python Environment](https://duajaradat.github.io/Reading-notes/401class01)        |
-|  class-02   |  [Recursion,Test Driven Development](https://duajaradat.github.io/Reading-notes/401class02)                       |
-|  class-03   |  [Read / Write files](https://duajaradat.github.io/Reading-notes/401class03)                       |
-|  class-04   |  [Thinking Recursively,Pytest fixtures and Coverage](https://duajaradat.github.io/Reading-notes/401class04)  |
-|  class-05   |  [Terminology](https://duajaradat.github.io/Reading-notes/401class05)  |                    |
-|  class-06   |  [Dependency Injection,Risk Analysis,Random Module](https://duajaradat.github.io/Reading-notes/401class06)  | 
+|  class-01   |   [Python Environment](https://duajaradat.github.io/Reading-notes/401class01)|
+|  class-02   |  [Recursion,Test Driven Development](https://duajaradat.github.io/Reading-notes401class02)  |
+|  class-03   |  [Read / Write files](https://duajaradat.github.io/Reading-notes/401class03) |
+|  class-04   |  [Thinking Recursively,Pytest fixtures and Coverage](https://duajaradat.github.io/Reading-notes/401class04) |
+|  class-05   |  [Terminology](https://duajaradat.github.io/Reading-notes/401class05) |                  
+|  class-06   |  [Dependency Injection,Risk Analysis,Random Module](https://duajaradat.github.io/Reading-notes/401class06) | 
 |  class-07   |  [Python Scope](https://duajaradat.github.io/Reading-notes/401class07)  | 
 |  class-08   |  [List Comprehensions,Decorators](https://duajaradat.github.io/Reading-notes/401class08) |
-|  class-09   | [Dunder Methods ,Statistics - Probability](https://duajaradat.github.io/Reading-notes/401class09)                   |
-|  class-10   | [Stacks & Queues](https://duajaradat.github.io/Reading-notes/401class10)                   |
-|  class-11   | [Numpy , Jupyter Lab](https://duajaradat.github.io/Reading-notes/401class11)                   |
-|  class-12   | [Panda](https://duajaradat.github.io/Reading-notes/401class12)                      |
-|  class-13   | [Linear Regressions](https://duajaradat.github.io/Reading-notes/401class-13)                      |
-|  class-14   | [Data Visualization](https://duajaradat.github.io/Reading-notes/401class-14)                      |
-|  class-15   | [Trees](https://duajaradat.github.io/Reading-notes/401class-15)                      |
-|  class-16   | [Machine Learning](https://duajaradat.github.io/Reading-notes/401class16)                      |
-|  class-17   | [Web Scraping](https://duajaradat.github.io/Reading-notes/401class17)                      |
-|  class-18   | [Cryptography](https://duajaradat.github.io/Reading-notes/401class18)                      |
-|  class-19   | [Automation](https://duajaradat.github.io/Reading-notes/401class19)                      |
-|  class-26   | [Intro to Django](https://duajaradat.github.io/Reading-notes/401class26)                      |
-|  class-27   | [Django: Using Models](https://duajaradat.github.io/Reading-notes/401class27)                      |
-|  class-28   | [Django CRUD and Forms](https://duajaradat.github.io/Reading-notes/401class28)                      |
+|  class-09   | [Dunder Methods ,Statistics - Probability](https://duajaradat.github.io/Reading-notes/401class09)|
+|  class-10   | [Stacks & Queues](https://duajaradat.github.io/Reading-notes/401class10)|
+|  class-11   | [Numpy , Jupyter Lab](https://duajaradat.github.io/Reading-notes/401class11)|
+|  class-12   | [Panda](https://duajaradat.github.io/Reading-notes/401class12)|
+|  class-13   | [Linear Regressions](https://duajaradat.github.io/Reading-notes/401class-13)|
+|  class-14   | [Data Visualization](https://duajaradat.github.io/Reading-notes/401class-14)|
+|  class-15   | [Trees](https://duajaradat.github.io/Reading-notes/401class-15) |
+|  class-16   | [Machine Learning](https://duajaradat.github.io/Reading-notes/401class16)|
+|  class-17   | [Web Scraping](https://duajaradat.github.io/Reading-notes/401class17)|
+|  class-18   | [Cryptography](https://duajaradat.github.io/Reading-notes/401class18) |
+|  class-19   | [Automation](https://duajaradat.github.io/Reading-notes/401class19) |
+|  class-26   | [Intro to Django](https://duajaradat.github.io/Reading-notes/401class26) |
+|  class-27   | [Django: Using Models](https://duajaradat.github.io/Reading-notes/401class27) |
+|  class-28   | [Django CRUD and Forms](https://duajaradat.github.io/Reading-notes/401class28) |
+|  class-29   | [Django Custom User](https://duajaradat.github.io/Reading-notes/401class29) |
+
+
 ---
 
 
