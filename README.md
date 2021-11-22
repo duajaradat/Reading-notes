@@ -108,7 +108,7 @@ A collections of my notes as I grow as a software developer.
 |  class-30   | [Hashtables](https://duajaradat.github.io/Reading-notes/401class30) |
 |  class-31   | [ Django REST Framework & Docker](https://duajaradat.github.io/Reading-notes/401class31) |
 |  class-32   | [ Permissions ](https://duajaradat.github.io/Reading-notes/401class32) |
-
+|  class-33   | [ Authentication & Production Server ](https://duajaradat.github.io/Reading-notes/401class33) |
 
 
 
