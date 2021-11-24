@@ -110,7 +110,7 @@ A collections of my notes as I grow as a software developer.
 |  class-32   | [ Permissions ](https://duajaradat.github.io/Reading-notes/401class32) |
 |  class-33   | [ Authentication & Production Server ](https://duajaradat.github.io/Reading-notes/401class33) |
 |  class-34   | [ Configuring Djano Settings: Best Practices ](https://duajaradat.github.io/Reading-notes/401class34) |
-
+|  class-35   | [ Graphs ](https://duajaradat.github.io/Reading-notes/401class35) |
 
 
 
