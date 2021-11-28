@@ -112,7 +112,7 @@ A collections of my notes as I grow as a software developer.
 |  class-34   | [ Configuring Djano Settings: Best Practices ](https://duajaradat.github.io/Reading-notes/401class34) |
 |  class-35   | [ Graphs ](https://duajaradat.github.io/Reading-notes/401class35) |
 |  class-36   | [ DSA Review ](https://duajaradat.github.io/Reading-notes/401class36) |
-
+|  class-37  | [ React 1 ](https://duajaradat.github.io/Reading-notes/401class37) |
 
 
 
