@@ -114,7 +114,7 @@ A collections of my notes as I grow as a software developer.
 |  class-36   | [ DSA Review ](https://duajaradat.github.io/Reading-notes/401class36) |
 |  class-37  | [ React 1 ](https://duajaradat.github.io/Reading-notes/401class37) |
 |  class-38  | [ React 2 ](https://duajaradat.github.io/Reading-notes/401class38) |
-
+|  class-39 | [ Next.js](https://duajaradat.github.io/Reading-notes/401class39) |
 
 
 
