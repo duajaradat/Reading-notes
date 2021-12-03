@@ -117,7 +117,7 @@ A collections of my notes as I grow as a software developer.
 |  class-39 | [ Next.js](https://duajaradat.github.io/Reading-notes/401class39) |
 |  class-41 | [Dynamic Routes](https://duajaradat.github.io/Reading-notes/401class41) |
 
-Dynamic Routes
+
 
 
 
